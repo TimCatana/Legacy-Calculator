@@ -16,7 +16,7 @@ This was made in collaboration with: <br><br>
 
 ## OS
 <br>
-- Linux
+&nbsp; &nbsp; &nbsp;Linux
 
 ## Contents
 <br>
