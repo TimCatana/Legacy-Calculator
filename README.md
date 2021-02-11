@@ -6,13 +6,13 @@
 Original legacy code was provided by the instructor of CIS*3250 (Software Design III).<br>
 <br>
 This was made in collaboration with: <br><br>
-&nbsp; &nbsp; &nbsp; *Evan Vrkljan (1003457)*<br>
-&nbsp; &nbsp; &nbsp; *Dylan So (1091854)*<br>
-&nbsp; &nbsp; &nbsp; *Timothy Catana (1080041)*<br>
-&nbsp; &nbsp; &nbsp; *Mobolaji Akinyanbola (1048108)*<br>
-&nbsp; &nbsp; &nbsp; *Saqif Abrar (1083927)*<br>
-&nbsp; &nbsp; &nbsp; *Brettan Cutchall (1086965)*<br>
-&nbsp; &nbsp; &nbsp; *Kurtis Hoover (1090657)*<br>
+&nbsp; &nbsp; &nbsp; *Timothy Catana *<br>
+&nbsp; &nbsp; &nbsp; *Evan Vrkljan *<br>
+&nbsp; &nbsp; &nbsp; *Dylan So *<br>
+&nbsp; &nbsp; &nbsp; *Mobolaji Akinyanbola *<br>
+&nbsp; &nbsp; &nbsp; *Saqif Abrar *<br>
+&nbsp; &nbsp; &nbsp; *Brettan Cutchall *<br>
+&nbsp; &nbsp; &nbsp; *Kurtis Hoover *<br>
 
 ## Contents
 <br>
