@@ -1,0 +1,13 @@
+                     ////User Helping\\\\
+////////////////////////And User Manual\\\\\\\\\\\\\\\\\\\\\\\
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                                                             x
+x 1. This program was made for educational purposes.          x
+x 2. This program contains 3 types of calculators:            x
+x    - Regular                                                x
+x    - Scientific                                             x
+x    - Accountant                                             x
+X 3. This program was coded in the C programming language.    x
+x 4. This program may still have bugs; it is offered as is.   x
+x                                                             x
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
